@@ -1,0 +1,4 @@
+Type integers, each follwed by Enter,or just Enter to finish
+integer:count= 1 total= 5 mean= 5.0
+integer:count= 2 total= 11 mean= 5.5
+integer:
